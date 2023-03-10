@@ -1,1 +1,1 @@
-vagrant task
+output uname
